@@ -1,4 +1,4 @@
-youtube-dl --username "mar-angelo-4" --password "08240824" -o "/Users/marangelo/Downloads/camel_plursl_sight/%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --min-sleep-interval 30 --max-sleep-interval 60 https://app.pluralsight.com/library/courses/java-interfaces-abstraction/table-of-contents--playlist-start 1
+youtube-dl --username "mar-angelo-2b" --password "Mocha_2408" -o "/Users/marangelo/Downloads/camel_plursl_sight/%(playlist)s/%(chapter_number)s - %(chapter)s/%(playlist_index)s - %(title)s.%(ext)s" --min-sleep-interval 30 --max-sleep-interval 60 https://app.pluralsight.com/library/courses/java-interfaces-abstraction/table-of-contents--playlist-start 1
 
 
 
